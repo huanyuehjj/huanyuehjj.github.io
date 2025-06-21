@@ -41,6 +41,18 @@
   margin-top: 2.4rem;
   margin-bottom: 2.4rem;
 }
+.post-count {
+  scrollbar-width: none;
+  color: var(--text-p2);
+}
+.totalcount {
+  color: var(--text-p2);
+}
+.page-footer {
+  text-align: center;
+  margin: 0 auto;
+  width: 100%;
+}
 :root {
   --theme-link: #2094f3;
   --theme-color: #1cd0fd;
